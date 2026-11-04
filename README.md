@@ -46,5 +46,3 @@ Building agent runtimes and enterprise AI systems.
 微信公众号：**机器智能算法**，分享大模型与 Agent 系统的研究和工程实践。
 
 欢迎围绕 Agent 记忆、多智能体协作与企业 AI 开展技术交流与合作，也欢迎参与 Runtime、工具与 Skills、文档和使用示例的改进。
-
-[EchoAgent 问题反馈](https://github.com/fuyuxiang/echo-agent/issues) · [贡献指南](https://github.com/fuyuxiang/echo-agent/blob/master/CONTRIBUTING.md)
