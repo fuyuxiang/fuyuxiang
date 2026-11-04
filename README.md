@@ -43,9 +43,7 @@ Building agent runtimes and enterprise AI systems.
 
 ## 交流与合作
 
-微信公众号：**[机器智能算法](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5ODI0NDc0NA==#wechat_redirect)**（[扫码关注](https://github.com/fuyuxiang/fuyuxiang/blob/main/assets/wechat-qrcode.png)）
-
-分享大模型与 Agent 系统的研究和工程实践。
+微信公众号：**[机器智能算法](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5ODI0NDc0NA==#wechat_redirect)**（[扫码关注](https://github.com/fuyuxiang/fuyuxiang/blob/main/assets/wechat-qrcode.png)），分享大模型与 Agent 系统的研究和工程实践。
 
 技术社群：[数据智能群（QQ）](https://qm.qq.com/q/qlCkSTTtkW)
 
