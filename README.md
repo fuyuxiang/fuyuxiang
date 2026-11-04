@@ -1,4 +1,4 @@
-# 付玉祥 · fuyuxiang
+# 付玉祥
 
 **AI 架构师 · EchoAgent 创始人 · 技术图书作者**
 
