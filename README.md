@@ -10,7 +10,7 @@ Building agent runtimes and enterprise AI systems.
 
 ## EchoAgent
 
-我主导 EchoAgent Runtime 与企业 Agent 的架构设计和工程建设，面向开发者与企业团队提供智能体运行与协作工具。
+主导 EchoAgent Runtime 与企业 Agent 的架构设计和工程建设，面向开发者与企业团队提供智能体运行与协作工具。
 
 ### EchoAgent Runtime
 
