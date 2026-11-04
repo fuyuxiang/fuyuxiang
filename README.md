@@ -6,7 +6,7 @@ Building agent runtimes and enterprise AI systems.
 
 专注大模型与 Agent 系统架构，研究长期记忆与多智能体协作，构建面向企业数据和业务流程的 AI 应用。
 
-[EchoAgent](https://github.com/fuyuxiang/echo-agent) · [Runtime 文档](https://fuyuxiang.github.io/echo-agent/) · [精选项目](#精选项目) · [图书与研究](#图书与研究) · [写作与交流](#写作与交流)
+[EchoAgent](https://github.com/fuyuxiang/echo-agent) · [EchoAgent 文档](https://fuyuxiang.github.io/echo-agent/) · [精选项目](#精选项目) · [著作与成果](#著作与成果) · [交流与合作](#交流与合作)
 
 ## EchoAgent
 
@@ -32,7 +32,7 @@ Building agent runtimes and enterprise AI systems.
 | [数&#8288;擎&nbsp;·&nbsp;DataAgent](https://github.com/fuyuxiang/data-agent) | **企业数据分析智能体**：用自然语言完成业务问数、经营分析与报告生成，基于统一指标口径交付可核验、可追溯的数据结论。 |
 | [AIPulse&nbsp;Platform](https://github.com/fuyuxiang/aipulse-platform) | **企业 Agent 运行与治理平台**：面向开发与平台团队，集中管理 Agent 应用、模型、工具与工作流，提供权限审批、质量评测、运行监控与执行审计。 |
 
-## 图书与研究
+## 著作与成果
 
 已出版图书：
 
@@ -41,7 +41,7 @@ Building agent runtimes and enterprise AI systems.
 
 在国内外期刊发表论文 30 余篇，拥有发明专利 3 项，参与省市级课题 10 项；有 6 年以上创业经历。
 
-## 写作与交流
+## 交流与合作
 
 微信公众号：**[机器智能算法](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5ODI0NDc0NA==#wechat_redirect)**（[扫码关注](https://github.com/fuyuxiang/fuyuxiang/blob/main/assets/wechat-qrcode.png)）
 
