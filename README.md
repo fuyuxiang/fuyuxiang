@@ -28,9 +28,9 @@ Building agent runtimes and enterprise AI systems.
 
 | 项目 | 定位与价值 |
 | --- | --- |
-| [元枢 · Ontology](https://github.com/fuyuxiang/ontology) | **企业业务本体平台**：将业务对象、数据与规则组织为统一业务模型，让 Agent 理解业务、查询数据，并在授权范围内执行业务操作。 |
-| [数擎 · DataAgent](https://github.com/fuyuxiang/data-agent) | **企业数据分析智能体**：用自然语言完成业务问数、经营分析与报告生成，基于统一指标口径交付可核验、可追溯的数据结论。 |
-| [AIPulse Platform](https://github.com/fuyuxiang/aipulse-platform) | **企业 Agent 运行与治理平台**：面向开发与平台团队，集中管理 Agent 应用、模型、工具与工作流，提供权限审批、质量评测、运行监控与执行审计。 |
+| [元&#8288;枢&nbsp;·&nbsp;Ontology](https://github.com/fuyuxiang/ontology) | **企业业务本体平台**：将业务对象、数据与规则组织为统一业务模型，让 Agent 理解业务、查询数据，并在授权范围内执行业务操作。 |
+| [数&#8288;擎&nbsp;·&nbsp;DataAgent](https://github.com/fuyuxiang/data-agent) | **企业数据分析智能体**：用自然语言完成业务问数、经营分析与报告生成，基于统一指标口径交付可核验、可追溯的数据结论。 |
+| [AIPulse&nbsp;Platform](https://github.com/fuyuxiang/aipulse-platform) | **企业 Agent 运行与治理平台**：面向开发与平台团队，集中管理 Agent 应用、模型、工具与工作流，提供权限审批、质量评测、运行监控与执行审计。 |
 
 ## 图书与研究
 
