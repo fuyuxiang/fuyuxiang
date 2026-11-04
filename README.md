@@ -43,6 +43,8 @@ Building agent runtimes and enterprise AI systems.
 
 ## 写作与交流
 
-微信公众号：**机器智能算法**，分享大模型与 Agent 系统的研究和工程实践。
+微信公众号：**[机器智能算法](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5ODI0NDc0NA==#wechat_redirect)**（微信内打开） · [扫码关注](https://github.com/fuyuxiang/fuyuxiang/blob/main/assets/wechat-qrcode.png)
+
+分享大模型与 Agent 系统的研究和工程实践。
 
 欢迎围绕 Agent 记忆、多智能体协作与企业 AI 开展技术交流与合作，也欢迎参与 Runtime、工具与 Skills、文档和使用示例的改进。
